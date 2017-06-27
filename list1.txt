@@ -1,0 +1,350 @@
+
+
+		Atraxa.txt (25)
+
+Cathars' Crusade
+Champion of Lambholt
+Chromatic Lantern
+Command Tower
+Commander's Sphere
+Counterspell
+Cyclonic Rift
+Darksteel Ingot
+Darkwater Catacombs
+Doubling Season
+Evolving Wilds
+Exotic Orchard
+Fellwar Stone
+Gilded Lotus
+Lightning Greaves
+Merciless Eviction
+Mortify
+Oona's Blackguard
+Opal Palace
+Oran-Rief, the Vastwood
+Sol Ring
+Temple of the False God
+Terramorphic Expanse
+Victimize
+Wrath of God
+
+		Borborygmos.txt (33)
+
+Asceticism
+Blasphemous Act
+Boundless Realms
+Command Tower
+Cultivate
+Decree of Annihilation
+Dictate of the Twin Gods
+Eternal Witness
+Evolving Wilds
+Flamekin Village
+Grafted Exoskeleton
+Harrow
+Hull Breach
+Hunter's Prowess
+Illusionist's Bracers
+Inferno
+Knollspine Dragon
+Krosan Grip
+Lightning Greaves
+Reforge the Soul
+Reliquary Tower
+Rogue's Passage
+Shinka, the Bloodsoaked Keep
+Skarrg, the Rage Pits
+Sol Ring
+Solemn Simulacrum
+Spinerock Knoll
+Swiftfoot Boots
+Sylvan Scrying
+Temple of the False God
+Terramorphic Expanse
+Ulamog, the Infinite Gyre
+Valakut, the Molten Pinnacle
+
+		Hidetsugu.txt (34)
+
+Arcane Lighthouse
+Blasphemous Act
+Burnished Hart
+Chain Reaction
+Comet Storm
+Commander's Sphere
+Darksteel Ingot
+Decree of Annihilation
+Dictate of the Twin Gods
+Everflowing Chalice
+Expedition Map
+Faithless Looting
+Fervor
+Flamekin Village
+Grafted Exoskeleton
+Gratuitous Violence
+Illusionist's Bracers
+Inferno
+Knollspine Dragon
+Lightning Greaves
+Loxodon Warhammer
+Nevinyrral's Disk
+Nykthos, Shrine to Nyx
+Reforge the Soul
+Reverberate
+Rogue's Passage
+Sol Ring
+Solemn Simulacrum
+Spinerock Knoll
+Swiftfoot Boots
+Temple of the False God
+Valakut, the Molten Pinnacle
+Vandalblast
+Word of Seizing
+
+		Kemba.txt (20)
+
+Caged Sun
+Cathars' Crusade
+Darksteel Mutation
+Eldrazi Monument
+Grafted Exoskeleton
+Lightning Greaves
+Loxodon Warhammer
+Mentor of the Meek
+Mirror Entity
+Nevinyrral's Disk
+Odric, Master Tactician
+Return to Dust
+Rogue's Passage
+Sol Ring
+Sun Titan
+Swiftfoot Boots
+Temple of the False God
+Whispersilk Cloak
+White Sun's Zenith
+Wrath of God #Proxy
+
+		Marchesa.txt (35)
+
+Academy Ruins
+Akroma's Memorial
+Ashnod's Altar
+Bojuka Bog
+Chromatic Lantern
+City of Brass
+Command Tower
+Cyclonic Rift
+Darksteel Ingot
+Diabolic Tutor
+Disciple of Bolas
+Eldrazi Monument
+Expedition Map
+Fervor
+Flamekin Village
+Gilded Lotus
+Glen Elendra Archmage
+Harvester of Souls
+Lightning Greaves
+Oona's Blackguard
+Opal Palace
+Praetor's Grasp
+Reliquary Tower
+Riptide Laboratory
+Rogue's Passage
+Rupture Spire
+Scour from Existence
+Sidisi, Undead Vizier
+Skullclamp
+Sol Ring
+Solemn Simulacrum
+Temple of the False God
+Transguild Promenade
+Urborg, Tomb of Yawgmoth
+Victimize
+
+		Merieke.txt (37)
+
+Academy Ruins
+Arcane Lighthouse
+Ashnod's Altar
+Avacyn, Angel of Hope
+Blue Sun's Zenith
+Burnished Hart
+Chromatic Lantern
+Command Tower
+Counterspell
+Crystal Shard
+Cyclonic Rift
+Deadeye Navigator
+Diabolic Tutor
+Disciple of Bolas
+Fellwar Stone
+Gilded Lotus
+Glen Elendra Archmage
+Harvester of Souls
+Illusionist's Bracers
+Lightning Greaves
+Merciless Eviction
+Mortify
+Notion Thief
+Praetor's Grasp
+Rewind
+Riptide Laboratory
+Rise of the Dark Realms
+Rite of Replication
+Rogue's Passage
+Sidisi, Undead Vizier
+Skullclamp
+Sol Ring
+Swiftfoot Boots
+Telemin Performance
+Umbral Mantle
+Urborg, Tomb of Yawgmoth
+Whispersilk Cloak
+
+		Mizzix.txt (18)
+
+Blasphemous Act
+Blue Sun's Zenith
+Chain Reaction
+Comet Storm
+Command Tower
+Counterspell
+Evolving Wilds
+Faithless Looting
+Reliquary Tower
+Reverberate
+Rite of Replication
+Scour from Existence
+Sol Ring
+Spinerock Knoll
+Temple of the False God
+Terramorphic Expanse
+Vandalblast
+Word of Seizing
+
+		Oona.txt (34)
+
+Academy Ruins
+Ashnod's Altar
+Blue Sun's Zenith
+Bojuka Bog
+Burnished Hart
+Caged Sun
+Command Tower
+Counterspell
+Crystal Shard
+Cyclonic Rift
+Darkwater Catacombs
+Deadeye Navigator
+Diabolic Tutor
+Everflowing Chalice
+Expedition Map
+Glen Elendra Archmage
+Illusionist's Bracers
+Lightning Greaves
+Notion Thief
+Nykthos, Shrine to Nyx
+Oona's Blackguard
+Reliquary Tower
+Riptide Laboratory
+Scour from Existence
+Sidisi, Undead Vizier
+Skullclamp
+Sol Ring
+Solemn Simulacrum
+Telemin Performance
+Temple of the False God
+Umbral Mantle
+Urborg, Tomb of Yawgmoth
+Victimize
+Whispersilk Cloak
+
+		Uril.txt (25)
+
+Chromatic Lantern
+Command Tower
+Darksteel Ingot
+Darksteel Mutation
+Eternal Witness
+Gratuitous Violence
+Harrow
+Hull Breach
+Hunter's Prowess
+Krosan Grip
+Krosan Verge
+Mosswort Bridge
+Opal Palace
+Reliquary Tower
+Return to Dust
+Rogue's Passage
+Rupture Spire
+Shinka, the Bloodsoaked Keep
+Skarrg, the Rage Pits
+Sol Ring
+Sylvan Scrying
+Temple of the False God
+Terastodon
+Transguild Promenade
+Wrath of God
+
+		rhys.txt (32)
+
+Akroma's Memorial
+Asceticism
+Avacyn, Angel of Hope
+Boundless Realms
+Cathars' Crusade
+Champion of Lambholt
+Cultivate
+Doubling Season
+Eldrazi Monument
+Eternal Witness
+Expedition Map
+Illusionist's Bracers
+Krosan Verge
+Lightning Greaves
+Mentor of the Meek
+Mirror Entity
+Mosswort Bridge
+Nykthos, Shrine to Nyx
+Odric, Master Tactician
+Oran-Rief, the Vastwood
+Reliquary Tower
+Skullclamp
+Sol Ring
+Sun Titan
+Sylvan Scrying
+Temple of the False God
+Terastodon
+Triumph of the Hordes
+Ulamog, the Infinite Gyre
+Umbral Mantle
+White Sun's Zenith
+Wrath of God
+
+		slivers.txt (23)
+
+Bojuka Bog
+Boundless Realms
+City of Brass
+Command Tower
+Cyclonic Rift
+Darksteel Ingot
+Diabolic Tutor
+Exotic Orchard
+Expedition Map
+Fellwar Stone
+Harrow
+Hull Breach
+Mirror Entity
+Praetor's Grasp
+Rewind
+Rise of the Dark Realms
+Rupture Spire
+Sol Ring
+Sylvan Scrying
+Transguild Promenade
+Triumph of the Hordes
+Victimize
+Wrath of God #Proxy

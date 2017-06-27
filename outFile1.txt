@@ -1,0 +1,133 @@
+1x
+1x Apocalypse
+1x Arcane Lighthouse
+1x Bitter Feud
+1x Burn from Within
+1x Burning Earth
+1x Burnished Hart
+1x Burnout
+1x Charmbreaker Devils
+1x Commander's Sphere
+1x Dark Sphere
+1x Darksteel Myr
+1x Decree of Annihilation
+1x Dingus Staff
+1x Elemental Appeal
+1x Faithless Looting
+1x Fanning the Flames
+1x Font of Mythos
+1x General's Regalia
+1x Ghitu Fire
+1x Goblin War Paint
+1x Impending Disaster
+1x Incite Rebellion
+1x Knollspine Dragon
+1x Koth of the Hammer
+1x Mana Echoes
+1x Manabarbs
+1x Manor Gargoyle
+1x Mass Hysteria
+1x Mind's Eye
+1x Mogg Maniac
+1x Need for Speed
+1x Nevinyrral's Disk
+1x Nykthos, Shrine to Nyx
+1x Pentagram of the Ages
+1x Perilous Vault
+1x Pyrohemia
+1x Red Sun's Zenith
+1x Rite of the Raging Storm
+1x Ruby Medallion
+1x Semblance Anvil
+1x Shinka, the Bloodsoaked Keep
+1x Silent Arbiter
+1x Spinerock Knoll
+1x Tectonic Instability
+1x Vandalblast
+1x Vulshok Refugee
+1x Wall of Stone
+1x War's Toll
+24x Mountain
+2x Akki Drillmaster
+2x An-Zerrin Ruins
+2x Ashling's Prerogative
+2x Banefire
+2x Battle Rampart
+2x Browbeat
+2x Chain Reaction
+2x Darksteel Ingot
+2x Darksteel Sentinel
+2x Fault Line
+2x Fortune Thief
+2x Generator Servant
+2x Ghitu Encampment
+2x Grafted Exoskeleton
+2x Hammer of Purphoros
+2x Hostility
+2x Illusionist's Bracers
+2x Incendiary Command
+2x Into the Core
+2x Kamahl, Pit Fighter
+2x Kher Keep
+2x Leyline of Punishment
+2x Madblind Mountain
+2x Palladium Myr
+2x Platinum Angel
+2x Pulse of the Forge
+2x Shivan Gorge
+2x Smoke
+2x Strip Mine
+2x Urabrask the Hidden
+2x Zo-Zu the Punisher
+3x Anger
+3x Armillary Sphere
+3x Ashling the Pilgrim
+3x Blasphemous Act
+3x Chaos Warp
+3x Curse of Bloodletting
+3x Devil's Play
+3x Dictate of the Twin Gods
+3x Flamekin Village
+3x Glacial Chasm
+3x Hall of the Bandit Lord
+3x Impact Resonance
+3x Inferno
+3x Jaya Ballard, Task Mage
+3x Mana Geyser
+3x Mind Stone
+3x Obsidian Fireheart
+3x Pariah's Shield
+3x Quest for Pure Flame
+3x Reforge the Soul
+3x Repercussion
+3x Reverberate
+3x Viashino Heretic
+3x War Elemental
+3x Worn Powerstone
+4x Comet Storm
+4x Earthquake
+4x Gratuitous Violence
+4x Lightning Mauler
+4x Molten Disaster
+4x Platinum Emperion
+4x Pristine Talisman
+4x Temple of the False God
+4x Thran Dynamo
+5x Caged Sun
+5x Everflowing Chalice
+5x Expedition Map
+5x Fervor
+5x Insurrection
+5x Price of Glory
+5x Solemn Simulacrum
+5x Stuffy Doll
+6x Basilisk Collar
+6x Lightning Greaves
+6x Overblaze
+6x Sol Ring
+6x Thousand-Year Elixir
+6x Wild Ricochet
+7x Loxodon Warhammer
+7x Valakut, the Molten Pinnacle
+8x Furnace of Rath
+8x Swiftfoot Boots
